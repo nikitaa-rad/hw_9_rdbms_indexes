@@ -33,7 +33,7 @@
 
 - To test selecting by a big date range, use queries in queries/testing/read/select_by_big_date_range.sql.
 
-### Read
+### Write
 
 - To test inserts, see queries in queries/testing/write/insert_records_from_users_data_table.sql.
 
